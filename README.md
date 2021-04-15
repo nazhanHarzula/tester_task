@@ -12,4 +12,4 @@
 3. Activate the portable env python module in the `Env` folder (cmd : `Env\Scripts\activate.bat`)
 4. Navigate back into the folder task_planner
 5. Then if it's already in that folder, then enter the command (cmd: `python manage.py runserver`)
-6. 
+6. After that just go to the server that has been built (example: `http://127.0.0.1:8000/`)
