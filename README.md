@@ -1,6 +1,6 @@
 ## Tester
 
-** Files only need to be downloaded and directed to the computer **
+<b> Files only need to be downloaded and directed to the computer </b>
 
 #### Required :
 1. Python version programming
